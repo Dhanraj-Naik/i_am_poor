@@ -7,7 +7,7 @@ void main() {
         backgroundColor: Colors.green,
         appBar: AppBar(
           title: Text('I Am Poor'),
-          backgroundColor: Colors.green[900],
+          backgroundColor: Colors.green[800],
         ),
         body: Center(
           child: Image(image: AssetImage('./images/homeless.jpg')),
